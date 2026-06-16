@@ -1,1 +1,1 @@
-# Wazhu-Home-Lab
+# Wazuh-Home-Lab
